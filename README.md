@@ -1,7 +1,7 @@
 ## Salam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Lahiyane Mehdi, a passionate full stack web developer and a freelance software engineer from Morocco.<br>
-<img src="https://im2.ezgif.com/tmp/ezgif-2-7d2c19239b.gif" alt="name banner" />
+<img src="https://i.ibb.co/5hw7NDt/Mehdi-Lahiyane-1.gif" alt="mehdi lahiyane banner" />
 
 ### About Me
 
