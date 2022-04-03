@@ -1,9 +1,6 @@
 ## Salam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Lahiyane Mehdi, a passionate full stack web developer and a freelance software engineer from Morocco.<br>
-I have a big passion for music production, problem-solving, and transforming innovative ideas into codes
-and I'm persevering on different projects involving computer science, music, and charity.<br>
-
 <img src="https://im2.ezgif.com/tmp/ezgif-2-7d2c19239b.gif" alt="name banner" />
 
 ### About Me
@@ -11,10 +8,10 @@ and I'm persevering on different projects involving computer science, music, and
 
 <div align="center">
 <a href="https://mehdilhy.com/">
-<img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
+<img src="https://img.shields.io/badge/Website-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mehdi-lahiyane-543145172/">
-<img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+<img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="mailto:mehdilhy@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
