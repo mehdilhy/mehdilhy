@@ -90,7 +90,12 @@ Hi, I'm Lahiyane Mehdi, a passionate full stack web developer and a freelance so
 ### What I Used Last Week : 
   
 <!--START_SECTION:waka-->
-  
+
+```text
+Python   25 mins         █████████████████████████   100.00 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
