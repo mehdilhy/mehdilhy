@@ -92,8 +92,8 @@ Hi, I'm Lahiyane Mehdi, a passionate full stack web developer and a freelance so
 <!--START_SECTION:waka-->
 
 ```text
-Python   2 hrs 29 mins   █████████████████████▓░░░   86.58 %
-Other    18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Python   3 hrs 18 mins   █████████████████████░░░░   84.42 %
+Other    32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
 ```
 
 <!--END_SECTION:waka-->
