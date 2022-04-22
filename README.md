@@ -92,11 +92,12 @@ Hi, I'm Lahiyane Mehdi, a passionate full stack web developer and a freelance so
 <!--START_SECTION:waka-->
 
 ```text
-Python       3 hrs 20 mins   ████████████████▒░░░░░░░░   65.67 %
-TypeScript   59 mins         █████░░░░░░░░░░░░░░░░░░░░   19.38 %
-JSON         34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Python       1 hr 22 mins    ██████████▒░░░░░░░░░░░░░░   40.89 %
+TypeScript   59 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 %
+JSON         26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Java         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
+XML          11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
+Markdown     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
 ```
 
 <!--END_SECTION:waka-->
